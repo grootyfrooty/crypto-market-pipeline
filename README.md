@@ -102,4 +102,4 @@ The workflow in `.github/workflows/` runs the script automatically on a schedule
 
 ## Author
 
-Built by [@grootyfrooty](https://github.com/grootyfrooty) as a data engineering portfolio project.
+Built by [@grootyfrooty](https://github.com/grootyfrooty) as a data analyst/engineering portfolio project.
